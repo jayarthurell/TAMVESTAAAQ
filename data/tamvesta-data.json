@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "user_admin_tamansiswa",
+      "username": "TAMANSISWA",
+      "name": "Administrator Tamansiswa Batam",
+      "role": "admin",
+      "passwordHash": "ffd4353c2642d66c905af7dd94a092e11185b6e944af56423572445526a114a39abb737439bcbd9a4b12b907d6a67c0841c90c4fb2db1a0b44fa5c9a089e5e7c",
+      "salt": "a7abc0fe535f0a1c0fa2217db689338c",
+      "mustChangePassword": true,
+      "isActive": true,
+      "qrToken": "TAMVESTA:STUDENT:user_admin_tamansiswa:785efa956b468c8f",
+      "createdAt": "2026-10-20T05:12:03.108Z",
+      "updatedAt": "2026-10-20T05:12:03.108Z"
+    },
+    {
+      "id": "user_guru_budi",
+      "username": "guru.matematika",
+      "name": "Budi Santoso, S.Pd.",
+      "role": "guru",
+      "passwordHash": "476795e7a9f8ae48479ca0040ca2e3f24b1b0a05a87beedacc8aee3ec6b5494d75d0f345df580c7e219a7d0314fd77ef257a16c6221a16753ffdbfbec54e1cc3",
+      "salt": "6a92e73b06a1d86aa7691b842f2a1619",
+      "mustChangePassword": false,
+      "isActive": true,
+      "qrToken": "TAMVESTA:STUDENT:user_guru_budi:46de6feb917aae69",
+      "createdAt": "2026-10-20T05:12:03.108Z",
+      "updatedAt": "2026-10-20T05:12:03.108Z"
+    },
+    {
+      "id": "user_guru_siti",
+      "username": "guru.bahasa",
+      "name": "Dra. Siti Rahmawati, M.Pd.",
+      "role": "guru",
+      "passwordHash": "d3c3d9778a7edbec372a00076a8bfe9f9f94073db3d7fe55702cc623eedab70ad5f76195f93b9cc00c4568da72dffce4069468a9fe3232724a64490506ce9ebe",
+      "salt": "0236dda33ce6d3119139ba43de5bf033",
+      "mustChangePassword": false,
+      "isActive": true,
+      "qrToken": "TAMVESTA:STUDENT:user_guru_siti:7232c0c54d5a408a",
+      "createdAt": "2026-10-20T05:12:03.108Z",
+      "updatedAt": "2026-10-20T05:12:03.108Z"
+    },
+    {
+      "id": "user_kepala_sekolah",
+      "username": "kepala.sekolah",
+      "name": "Drs. Ki H. Hadikusumo, M.M.",
+      "role": "kepala_sekolah",
+      "passwordHash": "f9b3bf7046a1aa40e48ba1044286633da4075aeb9d9f3e69598769d5855d61b1c74137d2bbc6372da8e00c89baf5760a2408c20166d2501ea7807c99fe8dfbca",
+      "salt": "98481dbd9fb5f0051ce0e618b6cd1b9d",
+      "mustChangePassword": false,
+      "isActive": true,
+      "qrToken": "TAMVESTA:STUDENT:user_kepala_sekolah:278eade57a3931b4",
+      "createdAt": "2026-10-20T05:12:03.108Z",
+      "updatedAt": "2026-10-20T05:12:03.108Z"
+    },
+    {
+      "id": "user_panitia_osis",
+      "username": "panitia.osis",
+      "name": "Panitia OSIS Tamansiswa",
+      "role": "panitia",
+      "passwordHash": "ccb71959b31996bf579ab126a97ccb20d0ea97dc2262e8b59fffe6946cb2549092d6e4be6611847a00778a146b440fbb5004cd9aad4df1eb3845b1f366351bf5",
+      "salt": "060dff5733f54d008f5d0f1a63c46a6f",
+      "mustChangePassword": false,
+      "isActive": true,
+      "qrToken": "TAMVESTA:STUDENT:user_panitia_osis:934983084a9e5ee9",
+      "createdAt": "2026-10-20T05:12:03.108Z",
+      "updatedAt": "2026-10-20T05:12:03.108Z"
+    }
+  ],
+  "subjects": [],
+  "books": [],
+  "announcements": [],
+  "quizzes": [],
+  "quizAttempts": [],
+  "attendanceEvents": [],
+  "attendanceRecords": []
+}
